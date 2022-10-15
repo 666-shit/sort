@@ -1,0 +1,15 @@
+D:/CLion/sort/cmake-build-debug/CMakeFiles/sort.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/sort-1.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/sort-2.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/sort-3.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/sort-4.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/sort-5.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/sort-6.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/sort-7.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/sort-8.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/sort-9.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/sort-10.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/sort-11.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/sort-12.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLion/sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

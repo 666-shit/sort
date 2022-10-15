@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.23)
+project(sort)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(sort main.cpp)
+add_executable(sort-1 插入排序.cpp)
+add_executable(sort-2 希尔排序.cpp)
+add_executable(sort-3 冒泡排序.cpp)
+add_executable(sort-4 快排.cpp)
+add_executable(sort-5 简单排序.cpp)
+add_executable(sort-6 堆排序.cpp)
+add_executable(sort-7 归并排序.cpp)
+add_executable(sort-8 基数排序.cpp)
+add_executable(sort-9 外部排序.cpp)
+add_executable(sort-10 败者树.cpp)
+add_executable(sort-11 置换选择排序.cpp)
+add_executable(sort-12 最佳归并树.cpp)
